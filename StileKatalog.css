@@ -1,0 +1,78 @@
+/*-----------------------цвет фона---------------------------------------*/
+.fon2 {
+    background-color: #eaeaea;
+    width: auto;
+}
+
+/*------------------------------------------------------------------------*/
+#katalogText1 {
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 0px;
+    left: 530px;
+    color: black;
+    font-size: 70px;
+}
+
+#katalogText2 {
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -50px;
+    left: 400px;
+    color: black;
+    font-size: 30px;
+}
+
+.table table {
+    position: relative;
+    border-spacing: 22px 0px;
+}
+
+#imgTablr {
+    position: relative;
+    border-radius: 25px;
+    height: auto;
+    width:350px;
+}
+
+
+#textTable {
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 90px;
+    color: black;
+    font-size: 30px;
+}
+
+#imgTablr:hover {
+    border: black solid 1px;
+}
+
+#imgKatalo2 {
+    position: relative;
+    left: 100px;
+    top: 40px;
+}
+
+#rectL1 {
+    position: relative;
+    left: 00px;
+    top: -690px;
+   
+}
+
+#rectL2 {
+    position: relative;
+    top: -250px;
+}
+#textUnderTable {
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    position: relative;
+    color: black;
+    font-size: 30px;
+    top: -150px;
+}
+.position td{
+    position: relative;
+    left: 70px;
+}

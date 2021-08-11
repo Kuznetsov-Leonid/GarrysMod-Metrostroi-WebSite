@@ -1,0 +1,63 @@
+#PrivOKA1{
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 00px;
+    left: 360px;
+    color: orangered;
+    font-size: 60px;
+}
+#PrivOKA2{
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -75px;
+    left: 430px;
+    color: orangered;
+    font-size: 100px;
+}
+#PrivOKA3{
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -150px;
+    left: 340px;
+    color: orangered;
+    font-size: 60px;
+}
+#OKAimg1{
+    position: relative;
+    border-radius: 30px;
+    top: -100px;
+    border: 5px solid gray;
+    width: 1490px;
+}
+#OKAimg1:hover{
+    border-color: transparent;
+}
+
+#OKAimg2{
+    position: relative;
+    border-radius: 30px;
+    top: 0px;
+   border: 5px solid purple;
+    width: 1490px;
+}
+#OKAimg2:hover{
+    border-color: transparent;
+}
+.OKATXT1{
+    position: relative;
+    top: -60px;
+}
+#pointText:first-letter {
+    font-family:"Times New Roman", Times, serif;
+    font-size: 30px;
+    color:#f00000;
+}
+#opisanieEG:first-letter {
+    font-family:"Times New Roman", Times, serif;
+    font-size: 30px;
+    color:#f00000;
+}
+.TABLETXT{
+    position: relative;
+    top: -60px;
+}

@@ -1,0 +1,46 @@
+#opisanieEG:first-letter {
+    font-family:"Times New Roman", Times, serif;
+    font-size: 30px;
+    color:#f00000;
+}
+
+
+#HelloEMA1{
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    position: relative;
+    top:00px;
+    left:90px;
+    color: orangered;
+    font-size: 70px;
+}
+#HelloEMA2{
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -50px;
+    left: 570px;
+    color: orangered;
+    font-size: 100px;
+}
+#HelloEMA3{
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -100px;
+    color: orangered;
+    font-size: 70px;
+}
+#EMAimg1{
+    position: relative;
+    border-radius: 30px;
+    border: 5px solid purple;
+    width: 1490px;
+}
+#EMAimg1:hover{
+    border-color: transparent;
+}
+#ShortText2{
+    position: relative;
+    font-size: 14px;
+    color: #707070;
+    font-style: italic;
+    ine-height: 16px;
+}

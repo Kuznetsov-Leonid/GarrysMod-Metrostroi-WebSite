@@ -1,0 +1,136 @@
+.svazz{
+    position: relative;
+    top: 100px;
+}
+#Svaz{
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -160px;
+    left: 250px;
+    color: orangered;
+    font-size: 70px;
+}
+#Svaz1{
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -170px;
+    left: 50px;
+    color: orangered;
+    font-size: 30px;
+}
+#Svaz2{
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -170px;
+    left: 50px;
+    color: orangered;
+    font-size: 30px;
+}
+#Svaz3{
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -170px;
+    left: 50px;
+    color: orangered;
+    font-size: 30px;
+}
+#Svaz4{
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -170px;
+    left: 50px;
+    color: orangered;
+    font-size: 30px;
+}
+#Svaz5{
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    position: relative;
+    top: px;
+    left: px;
+    color: orangered;
+    font-size: 40px;
+}
+/*
+Форма обратной связи
+*/
+
+#inline {
+   position: relative;
+   margin-left:30px;
+   width:100%;
+   top: -100px;
+   margin:2 auto;
+   background:#FFF;
+   padding:10px 20px;
+}
+.txt {
+   text-transform: capitalize;  
+   display:inline-block;
+   color:#676767;
+   width:190px;
+   margin-bottom:10px;
+   border:1px solid #CCC;
+   padding:5px 9px;
+   font-size:15px!important;
+   line-height:1.4em;
+}
+.txtarea {
+   text-transform: capitalize;  
+   display:inline-block;
+   color:#676767;
+   width:617px;
+   margin-bottom:10px;
+   border:1px solid #CCC;
+   padding:5px 9px;
+   font-size:15px!important;
+   line-height:1.4em;
+   height:80px;
+}
+.txt:focus{
+   border-style:solid;
+   border-color:#BABABA;
+   background-color: aquamarine;
+   color:#444;
+}
+.txtarea:focus {
+   border-style:solid;
+   border-color:#BABABA;
+   background-color: aquamarine;
+   color:#444;
+}
+input.error, textarea.error {
+    border-color:#973D3D;
+    border-style:solid;
+    background:#F0BEBE;
+    color:#A35959;
+}
+input.error:focus, textarea.error:focus {
+    border-color:#973D3D;
+    color:#A35959;
+}
+#send { 
+    color:#FFFFFF;
+    display:block;
+    cursor:pointer;
+    padding:5px 11px;
+    font-size:1.2em;
+    border:solid 1px #F9F9F9;
+    border-radius:2px;
+    background:#70C6B9;
+    width:210px;
+    margin-bottom:20px;
+}
+#send:hover {
+    background:#979797;
+}
+/*
+Форма обратной связи
+*/
+#map{
+    position: relative;
+    top: -40px;
+    border-radius: 40px;
+    border: 5px solid red;
+    width: 100%;
+    height:  374px;
+}

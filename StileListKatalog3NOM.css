@@ -1,0 +1,54 @@
+#helloNOM1 {
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 00px;
+    left: 400px;
+    color: orangered;
+    font-size: 70px;
+}
+
+#helloNOM2 {
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -30px;
+    left: 160px;
+    color: gray;
+    font-size: 40px;
+}
+
+#helloNOM3 {
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -70px;
+    left: 90px;
+    color: orangered;
+    font-size: 70px;
+}
+
+#helloNOM4 {
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -100px;
+    left: 470px;
+    color: orangered;
+    font-size: 80px;
+}
+
+#nomIMG{
+    position: relative;
+    border-radius: 30px;
+    border: 5px solid green;
+    width: 1490px;
+}
+#nomIMG:hover{
+    border-color: transparent;
+}
+#nomIMG1{
+    position: relative;
+    border-radius: 30px;
+    border: 5px solid green;
+    width: 1490px;
+}
+#nomIMG1:hover{
+    border-color: transparent;
+}
